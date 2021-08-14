@@ -8,7 +8,7 @@
     "deploy": "hardhat run scripts/deploy.js",
     "test": "hardhat test --network localhost test/*.test.js",
     "net:bsc": "ganache-cli --fork ${BSC_RPC} --account=\"${DEPLOYER_PK}, 1000000000000000000000000\" --account=\"${SECOND_PK}, 1000000000000000000000000\" ",
-    "net:eth": "ganache-cli --fork ${ETHEREUM_RPC} --account=\"${DEPLOYER_PK}, 1000000000000000000000000\" --account=\"${KEEPER_PK}, 1000000000000000000000000\" ",
+    "net:eth": "ganache-cli --fork ${ETHEREUM_RPC} --account=\"${DEPLOYER_PK}, 1000000000000000000000000\" --account=\"${KEEPER_PK}, 1000000000000000000000000\" "
   },
   "dependencies": {
     "@nomiclabs/hardhat-etherscan": "^2.1.4",
