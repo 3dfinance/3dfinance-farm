@@ -1,9 +1,9 @@
-# PanCake Farming 🥞
+# 3D Farming 🥞
 
-[![Actions Status](https://github.com/pancakeswap/pancake-farm/workflows/CI/badge.svg)](https://github.com/pancakeswap/pancake-farm/actions)
-[![codecov](https://codecov.io/gh/pancakeswap/pancake-farm/branch/master/graph/badge.svg?token=5XMLP74IR0)](https://codecov.io/gh/pancakeswap/pancake-farm)
+[![Actions Status](https://github.com/3dfinance/3dfinance-farm/workflows/CI/badge.svg)](https://github.com/3dfinance/3dfinance-farm/actions)
+[![codecov](https://codecov.io/gh/3dfinance/3dfinance-farm/branch/master/graph/badge.svg?token=5XMLP74IR0)](https://codecov.io/gh/3dfinance/3dfinance-farm)
 
-https://pancakeswap.finance. Feel free to read the code. More details coming soon.
+https://3dfinance.finance. Feel free to read the code. More details coming soon.
 
 ## Deployed Contracts / Hash
 

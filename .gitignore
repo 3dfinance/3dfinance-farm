@@ -8,3 +8,9 @@ cache
 artifacts
 coverage
 coverage.json
+
+node_modules
+
+#Hardhat files
+cache
+artifacts
